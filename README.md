@@ -22,7 +22,7 @@ git clone https://github.com/Srinathars/aegean-tour-solver.git
 
 cd aegean-tour-solver
 
-#Running the Program
+# Running the Program
 
 You can run the program by providing input through stdin:
 
