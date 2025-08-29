@@ -18,8 +18,9 @@ Python 3.8+ (no external libraries required)
 
 Clone this repository:
 
-git clone https://github.com/<org-or-user>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Srinathars/aegean-tour-solver.git
+
+cd aegean-tour-solver
 
 #Running the Program
 
