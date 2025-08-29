@@ -32,10 +32,15 @@ python3 aegean.py
 Then type/paste the input, for example:
 
 6
+
 4
+
 0 by-sea, 2 by-sea, 3 by-sea
+
 0 by-sea, 5 airborne
+
 0 airborne, 5 by-sea
+
 2 airbornes
 
 
